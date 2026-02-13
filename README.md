@@ -1,7 +1,6 @@
-## View project without downloading ➜ https://annsshanto.github.io/Mr-Robot-Walkthrough/  
+## View project without downloading ➜ https://annsshanto.github.io/Mr-Robot-Walkthrough/
 
-  
-
+<br><br>
 # 📌 Project Overview
 
 This project documents a step-by-step penetration testing walkthrough of the Mr Robot vulnerable machine.
