@@ -9,10 +9,11 @@ The objective is to perform reconnaissance, exploitation, and privilege escalati
 
 
 ## The attack methodology follows standard ethical hacking phases:
--Reconnaissance 
--Enumeration 
--Exploitation 
--Privilege Escalation
+-Reconnaissance  
+-Enumeration  
+-Exploitation  
+-Privilege Escalation  
+
 
 ## 🧰 Tools Used
 - Nmap  
