@@ -1,6 +1,6 @@
-**View project without downloading ➜** https://annsshanto.github.io/Mr-Robot-Walkthrough/
+## view project without downloading ➜ https://annsshanto.github.io/Mr-Robot-Walkthrough/
 
-
+  
 
 #📌 Project Overview
 
@@ -8,7 +8,8 @@ This project documents a step-by-step penetration testing walkthrough of the Mr 
 The objective is to perform reconnaissance, exploitation, and privilege escalation to obtain three hidden keys.
 
 
-## The attack methodology follows standard ethical hacking phases:
+
+## The attack methodology follows standard ethical hacking phases:  
 -Reconnaissance  
 -Enumeration  
 -Exploitation  
