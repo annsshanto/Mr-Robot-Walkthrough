@@ -2,7 +2,7 @@
 
 
 
-**📌 Project Overview** 
+#📌 Project Overview
 
 This project documents a step-by-step penetration testing walkthrough of the Mr Robot vulnerable machine.
 The objective is to perform reconnaissance, exploitation, and privilege escalation to obtain three hidden keys.
