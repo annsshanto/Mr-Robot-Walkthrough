@@ -1,9 +1,9 @@
-📌 Project Overview
+****📌 Project Overview****
 
 This project documents a step-by-step penetration testing walkthrough of the Mr Robot vulnerable machine.
 The objective is to perform reconnaissance, exploitation, and privilege escalation to obtain three hidden keys.
 
-The attack methodology follows standard ethical hacking phases:
+****The attack methodology follows standard ethical hacking phases:****
 
 Reconnaissance
 
@@ -13,7 +13,7 @@ Exploitation
 
 Privilege Escalation
 
-🧰 Tools Used
+****🧰 Tools Used****
 
 Nmap
 
@@ -29,14 +29,14 @@ LinPEAS
 
 GTFOBins
 
-🧭 Attack Methodology
-1. Reconnaissance
+****🧭 Attack Methodology****
+****1. Reconnaissance****
 
 Performed Nmap scan on target IP
 
 Discovered port 80 (HTTP) open
 
-2. Enumeration
+****2. Enumeration****
 
 Directory brute-forcing using Gobuster
 
@@ -50,7 +50,7 @@ First key obtained from robots.txt
 
 Found Base64 encoded credentials inside /license
 
-3. Credential Discovery
+****3. Credential Discovery****
 
 Decoded Base64 string
 
@@ -58,7 +58,7 @@ Extracted username and password
 
 Successfully logged into WordPress admin panel
 
-4. Exploitation
+****4. Exploitation****
 
 Identified vulnerable WordPress version
 
@@ -68,7 +68,7 @@ Started Netcat listener
 
 Triggered reverse shell via browser
 
-5. Horizontal Privilege Escalation
+****5. Horizontal Privilege Escalation****
 
 Located MD5 hash password file
 
@@ -78,7 +78,7 @@ Switched to robot user
 
 Retrieved second key
 
-6. Vertical Privilege Escalation
+****6. Vertical Privilege Escalation****
 
 Uploaded and executed LinPEAS
 
