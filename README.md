@@ -1,6 +1,9 @@
 ## View project without downloading ➜ https://annsshanto.github.io/Mr-Robot-Walkthrough/
 
 <br><br>
+##Mr Robot CTF on TryHackMe is a Capture-The-Flag style cybersecurity challenge you deploy as a virtual machine and exploit to find three hidden “keys” (flags). It’s themed after the Mr Robot TV series and designed for beginner to intermediate pentesters learning real-world techniques including port/service discovery, web enumeration, login brute-forcing, and privilege escalation.
+
+
 # 📌 Project Overview
 
 This project documents a step-by-step penetration testing walkthrough of the Mr Robot vulnerable machine.
